@@ -85,7 +85,7 @@ A data breach may involve unauthorized access, disclosure, loss, or misuse of pe
 
 ---
 
-## 👥 Roles & Responsibilities
+##  Roles & Responsibilities
 - **Privacy Officer:** Leads investigation, decides if reportable under PIPEDA.  
 - **IT Security Team:** Containment, forensic analysis, system hardening.  
 - **Communications Team:** Drafts and sends notifications.  
