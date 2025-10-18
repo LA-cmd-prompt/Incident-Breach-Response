@@ -2,14 +2,14 @@
 Incident &amp; Breach Response
 # Breach Response Playbook – HealthTrack App
 
-## 📌 Purpose
+##  Purpose
 This playbook outlines how HealthTrack will respond to a **personal data breach** in compliance with **PIPEDA** and global best practices.  
 
 A data breach may involve unauthorized access, disclosure, loss, or misuse of personal information (e.g., email addresses, health logs, location data).
 
 ---
 
-## ⚡ Guiding Principles
+##  Guiding Principles
 - **Timeliness:** Respond quickly — PIPEDA requires notification "as soon as feasible."  
 - **Transparency:** Communicate openly with affected individuals and regulators.  
 - **Accountability:** Assign clear roles and responsibilities.  
@@ -17,7 +17,7 @@ A data breach may involve unauthorized access, disclosure, loss, or misuse of pe
 
 ---
 
-## 🛠️ Step-by-Step Response Process
+##  Step-by-Step Response Process
 
 ### 1. Detection & Reporting
 - All staff trained to **report suspicious activity immediately**.  
@@ -39,7 +39,7 @@ A data breach may involve unauthorized access, disclosure, loss, or misuse of pe
 - **Who is affected?** (one user, a group, or entire customer base).  
 - **Likelihood of harm?** (identity theft, embarrassment, financial loss).  
 
-📌 Tool: Use **Risk Matrix** (included in repo) to classify breach as **Low / Medium / High severity**.  
+ Tool: Use **Risk Matrix** (included in repo) to classify breach as **Low / Medium / High severity**.  
 
 ---
 
@@ -50,7 +50,7 @@ A data breach may involve unauthorized access, disclosure, loss, or misuse of pe
 - Notify **third parties** who can help mitigate harm (e.g., banks, law enforcement).  
 - Maintain **records of all breaches** for at least 24 months, even if not reported.  
 
-📌 Global Note:  
+ Global Note:  
 - GDPR: notify supervisory authority within **72 hours**.  
 - U.S. State Laws: notification timelines vary (often 30–60 days).  
 
@@ -94,7 +94,7 @@ A data breach may involve unauthorized access, disclosure, loss, or misuse of pe
 
 ---
 
-## 📊 Supporting Deliverables
+##  Supporting Deliverables
 This repo includes:  
 - **`risk-matrix.xlsx`** → Breach severity scoring template.  
 - **`user-notification-template.md`** → Pre-drafted communication.  
@@ -103,7 +103,7 @@ This repo includes:
 
 ---
 
-## 🎯 Key Takeaways
+##  Key Takeaways
 - A breach is not just an IT problem — it’s a **privacy + compliance issue**.  
 - Clear **roles, documentation, and communication** prevent chaos.  
 - Meeting **PIPEDA requirements** builds trust with users and regulators.  
