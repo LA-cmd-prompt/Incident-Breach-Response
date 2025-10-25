@@ -100,7 +100,22 @@ This repo includes:
 - **`user-notification-template.md`** → Pre-drafted communication.  
 - **`breach-register.xlsx`** → Example log for internal tracking.  
 - **`flow-diagram.png`** → Incident response process visual.  
-
+<figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%201.jpeg" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%202.jpeg" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%203.jpeg" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%204.jpeg" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%205.jpeg" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%206.jpeg" width="800" 
+   <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%207.jpeg" width="800" 
+   <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%208.jpeg" width="800" 
 ---
 
 ##  Key Takeaways
