@@ -96,7 +96,7 @@ A data breach may involve unauthorized access, disclosure, loss, or misuse of pe
 
 ##  Supporting Deliverables
 This repo includes:  
-- **`risk-matrix.xlsx`** → Breach severity scoring template.  
+- **`risk-matrix.xlsx`** → [Breach severity scoring template](https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/breach-risk-matrix.xlsx)
 - **`user-notification-template.md`** → Pre-drafted communication.  
 - **`breach-register.xlsx`** → Example log for internal tracking.  
 - **`flow-diagram.png`** → Incident response process visual.  
