@@ -33,7 +33,7 @@ A data breach may involve unauthorized access, disclosure, loss, or misuse of pe
 
 ---
 
-### 3. Assessment & Risk Evaluation
+### 3. Investigation & Assessment
 - **What happened?** (e.g., phishing attack, lost device, ransomware).  
 - **What data is involved?** (sensitive health logs vs. email only).  
 - **Who is affected?** (one user, a group, or entire customer base).  
