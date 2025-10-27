@@ -9,14 +9,6 @@ A data breach may involve unauthorized access, disclosure, loss, or misuse of pe
 
 ---
 
-##  Guiding Principles
-- **Timeliness:** Respond quickly — PIPEDA requires notification "as soon as feasible."  
-- **Transparency:** Communicate openly with affected individuals and regulators.  
-- **Accountability:** Assign clear roles and responsibilities.  
-- **Mitigation:** Contain, assess, and prevent recurrence.  
-
----
-
 ##  Step-by-Step Response Process
 
 ### 1.Detection & Discovery
@@ -77,14 +69,35 @@ A data breach may involve unauthorized access, disclosure, loss, or misuse of pe
 
 ---
 
-### 6. Post-Incident Remediation
+### 6. Documentation and Record Keeping
 - Conduct **root cause analysis** (e.g., patch vulnerabilities, improve training).  
 - Update security controls (multi-factor authentication, encryption upgrades).  
 - Review and update **incident response plan**.  
 - Conduct **tabletop exercise** within 3 months.  
 
+### 6. Post-Incident Review
+- Conduct **root cause analysis** (e.g., patch vulnerabilities, improve training).  
+- Update security controls (multi-factor authentication, encryption upgrades).  
+- Review and update **incident response plan**.  
+- Conduct **tabletop exercise** within 3 months.  
 ---
-
+**Cross-Border Management Incident response process visual:**
+---
+- **`flow-diagram`** →.  
+<figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%201.jpeg" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%202.jpeg" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%203.jpeg" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%204.jpeg" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%205.jpeg" width="800" 
+   <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%207.jpeg" width="800" 
+   <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%208.jpeg" width="800" 
 ##  Roles & Responsibilities
 - **Privacy Officer:** Leads investigation, decides if reportable under PIPEDA (RROSH)
 - **IT Security Team:** Containment, forensic analysis, system hardening.  
@@ -94,13 +107,13 @@ A data breach may involve unauthorized access, disclosure, loss, or misuse of pe
 
 ---
 
-##  Supporting Deliverables
+##  Risk scoring for breach severity template
  
 - **`risk-scoring matrix.xlsx`** → [Risk scoring scoring template](https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/breach-risk-matrix.xlsx) 
 
 A practical, visual guide to evaluating **data breach severity** and identifying when notification is required under **Canadian (PIPEDA)** and **EU (GDPR)** law.
 
-This README replaces an interactive calculator with a clean, human-readable visual layout that still demonstrates your ability to **score risk**, **document incidents**, and **recommend actions**.
+This README replaces an interactive calculator with a clean, visual layout that still demonstrates your ability to **score risk**, **document incidents**, and **recommend actions**.
 
 ---
 
@@ -220,15 +233,7 @@ Total Risk Score = Σ(Data Type Scores) + Volume + Sensitivity + Control Factors
 
 ---
 
-##  Best Practices for Privacy-Compliant Communication
-
- **Be Transparent:** Provide accurate facts — avoid speculation.  
- **Be Prompt:** Notify “as soon as feasible” under PIPEDA.  
- **Be Reassuring:** Outline mitigation steps to build trust.  
- **Be Consistent:** Align public statements, user notices, and regulator reports.  
- **Be Accessible:** Use plain language; avoid legal jargon.  
-
- # 📨 User Notification Template  
+ # User Notification Template  
 **Version:** 1.0  
 **Prepared by:** [Your Name], Privacy Compliance Professional  
 **Jurisdiction(s):** Canada (PIPEDA) | EU (GDPR)  
@@ -236,7 +241,7 @@ Total Risk Score = Σ(Data Type Scores) + Volume + Sensitivity + Control Factors
 
 ---
 
-## 📋 Purpose
+## Purpose
 
 This document provides **pre-drafted notification messages** to be sent to affected individuals following a confirmed privacy incident or data breach.  
 It ensures compliance with:
@@ -356,33 +361,18 @@ Chief Privacy Officer
 | Review Date | [YYYY-MM-DD] |
 
 ---
----
 
-**Incident response process visual:**
- 
-- **`flow-diagram.png`** →.  
-<figure style="text-align:center">
-  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%201.jpeg" width="800" 
-    <figure style="text-align:center">
-  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%202.jpeg" width="800" 
-    <figure style="text-align:center">
-  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%203.jpeg" width="800" 
-    <figure style="text-align:center">
-  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%204.jpeg" width="800" 
-    <figure style="text-align:center">
-  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%205.jpeg" width="800" 
-    <figure style="text-align:center">
-  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%206.jpeg" width="800" 
-   <figure style="text-align:center">
-  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%207.jpeg" width="800" 
-   <figure style="text-align:center">
-  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/step%208.jpeg" width="800" 
 ---
 
 ##  Key Takeaways
 - A breach is not just an IT problem — it’s a **privacy + compliance issue**.  
 - Clear **roles, documentation, and communication** prevent chaos.  
-- Meeting **PIPEDA requirements** builds trust with users and regulators.  
+- Meeting **PIPEDA requirements** builds trust with users and regulators.
+- ##  Guiding Principles when handling incident breaches
+- **Timeliness:** Respond quickly — PIPEDA requires notification "as soon as feasible."  
+- **Transparency:** Communicate openly with affected individuals and regulators.  
+- **Accountability:** Assign clear roles and responsibilities.  
+- **Mitigation:** Contain, assess, and prevent recurrence.  
 
 ---
 
