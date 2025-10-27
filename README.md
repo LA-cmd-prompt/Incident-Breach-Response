@@ -19,14 +19,14 @@ A data breach may involve unauthorized access, disclosure, loss, or misuse of pe
 
 ##  Step-by-Step Response Process
 
-### 1. Detection & Reporting
+### 1.Detection & Discovery
 - All staff trained to **report suspicious activity immediately**.  
 - Centralized reporting channel: `privacy@healthtrack.ca`.  
 - Log the incident in the **Breach Register**.  
 
 ---
 
-### 2. Initial Containment
+### 2.Containment & Isolation
 - IT team isolates affected systems.  
 - Disable compromised accounts/access.  
 - Stop further unauthorized use or disclosure.  
