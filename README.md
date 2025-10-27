@@ -43,7 +43,7 @@ A data breach may involve unauthorized access, disclosure, loss, or misuse of pe
 
 ---
 
-### 4. [Notification Obligations](https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/incidence_3.jpeg)
+### 4. [Notification Requirement](https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/incidence_3.jpeg)
 #### Under PIPEDA:
 - Report breach to the **Office of the Privacy Commissioner of Canada (OPC)** if it poses a “real risk of significant harm.”  
 - Notify **affected individuals** directly (email, in-app notification).  
@@ -56,7 +56,7 @@ A data breach may involve unauthorized access, disclosure, loss, or misuse of pe
 
 ---
 
-### 5. Communication Templates
+### 5. Execute Notification (see Templates)
 - **User Notification Email Example:**  
 
   > Subject: Important Notice – Security Incident  
